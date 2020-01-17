@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: The Title
-description: *description*
+description: description
 github_username: ikintosh
 
 # Email and twitter are optional:

@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: О чем прочитал?
-description: Читаю книги\статьи, смотрю ютубчик про ML, DL, Python и делаю заметки с тезисами в духе "о чем там вообще было"
+description: Читаю книги\статьи, смотрю ютубчик про DS, ML, DL, Python, etc и делаю заметки в духе “о чем там вообще было?”
 github_username: ikintosh
 
 # Email and twitter are optional:
@@ -15,7 +15,7 @@ email: ilekseev@gmail.com
 twitter_username: sad_humanist
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima

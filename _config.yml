@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: The Title
-description: description
+title: О чем прочитал?
+description: Читаю книги\статьи, смотрю ютубчик про ML, DL, Python и делаю заметки с тезисами в духе "о чем там вообще было"
 github_username: ikintosh
 
 # Email and twitter are optional:
 email: ilekseev@gmail.com
-twitter_username: 
+twitter_username: @sad_humanist
 
 # Set this to true to get LaTeX math equation support
 use_math: 

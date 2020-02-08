@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Читаю книги\статьи, смотрю ютубчик и делаю заметки с тезисами в духе "о чем там вообще было", чтобы можно было запомнить и вернуться к этому в дальнейшем.
 

@@ -10,3 +10,8 @@
 Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. <br>Концепции, инструменты и техники для создания интеллектуальных систем | Жерон Орельен 
 Глубокое обучение на Python | Шолле Франсуа
 Python. К вершинам мастерства | Лучано Рамальо
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column

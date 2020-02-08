@@ -1,6 +1,6 @@
 # Data Science Pipeline with Monitoring and Experiment logging
 
-Собрал прибдуду (темплейт), который должен учитывать основные потребности при написании data science pipeline: [ссылка на репозиторий (Тык!)](https://github.com/iKintosh/cookiecutter-data-science){:target="_blank"}
+Собрал прибдуду (темплейт), который должен учитывать основные потребности при написании data science pipeline: <a href="https://github.com/iKintosh/cookiecutter-data-science" target="_blank">ссылка на репозиторий (Тык!)</a>
 
 Основные фишки этого всего дела:
 - разворачивается через cookiecutter (подготавливает шаблон для проекта в несколько строк)
